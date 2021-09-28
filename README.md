@@ -16,4 +16,4 @@ run malaria.ipynb
 ```
 
 ## example pokemon
-![image1](https://github.com/moxiegushi/pokeGAN/raw/master/images/Notes_1500532347861.jpeg)
+![image1](https://raw.githubusercontent.com/danikhan632/Malaria-Dectector/main/img.png)
